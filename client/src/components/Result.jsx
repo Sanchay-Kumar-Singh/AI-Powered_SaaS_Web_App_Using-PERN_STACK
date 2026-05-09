@@ -1,12 +1,10 @@
-// Result.jsx
-
 import React from "react";
 
 import Article from "../assets/Article.png";
 import Blog from "../assets/Blog.png";
 import ImageGen from "../assets/ImageGeneration.png";
 import RemoveBg from "../assets/BackgroundRemoval.png";
-import RemoveObject from "../assets/Object.png";
+import RemoveObject from "../assets/object.png";
 import Resume from "../assets/Resume.png";
 
 const results = [
