@@ -1,4 +1,4 @@
-# 🚀 QuickAI – Full Stack AI SaaS Platform
+# 🚀 AI Powered SaaS Web App
 
 Intellicore Ai is a production-ready AI SaaS platform offering powerful tools.
 
