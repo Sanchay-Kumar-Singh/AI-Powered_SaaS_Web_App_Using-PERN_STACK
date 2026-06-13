@@ -60,7 +60,7 @@ Built with modern technologies, secure authentication, cloud storage, and scalab
 
 ### DevOps
 - Vercel (frontend)  
-- Render / Vercel (backend)  
+- Vercel (backend)  
 - Neon DB  
 - Cloudinary CDN  
 
