@@ -6,7 +6,7 @@ Built with modern technologies, secure authentication, cloud storage, and scalab
 
 ---
 
-## 🌐 Live URL ---> https://intellicore-ai-dusky.vercel.app/
+## 🌐 Live Demo ---> https://intellicore-ai-dusky.vercel.app/
 
 ---
 
