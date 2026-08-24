@@ -1,8 +1,8 @@
 <h1>🚀 AI Powered SaaS Web App</h1>
+
 Intellicore Ai is a production-ready AI SaaS platform offering powerful tools.
 
 Built with modern technologies, secure authentication, cloud storage, and scalable APIs.
-
 ---
 ## 🌐 Live Demo ---> https://intellicore-ai-dusky.vercel.app/
 
